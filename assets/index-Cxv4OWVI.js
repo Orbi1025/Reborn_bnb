@@ -97243,7 +97243,7 @@ const vc = {
                     W.jsx("p", {
                       className: "text-white text-xl text-center lg:text-left",
                       children:
-                        '重生 (Rebirth) is a culture‑first meme token about bouncing back stronger. It riffs on the idea of starting fresh, together.',
+                        'With a burst of excited "Aiya ya ya ya!", the fan gushes thanks to CEO Jason for his refreshingly candid and insightful vibe—pure Binance energy all the way. Here is to you, holding strong with BNB: cruising in a sleek Binance supercar, chilling in a gated Binance neighborhood, and living that ultimate Binance dream life.',
                     }),
                     W.jsx("br", {}),
                     W.jsx("p", {
@@ -97278,7 +97278,7 @@ const vc = {
                   children: [
                     { title: "Chain", value: "BNB" },
                     { title: "Supply", value: "1,000,000,000" },
-                    { title: "Ticker", value: "重生" },
+                    { title: "Ticker", value: "币安人生" },
                   ].map((t, e) =>
                     W.jsxs(
                       "div",
@@ -97425,7 +97425,7 @@ const vc = {
               className:
                 "text-[#c5c5c5] text-xl mt-5 font-primary max-w-5xl lg:text-left text-center",
               children:
-                "This isn’t just fandom—it’s financial and creative empowerment. 重生 transforms passive listeners into stakeholders, where every stream, vote, and collaboration fuels a self-sustaining entertainment economy.",
+                "This isn’t just fandom—it’s financial and creative empowerment. 币安人生 transforms passive listeners into stakeholders, where every stream, vote, and collaboration fuels a self-sustaining entertainment economy.",
             }),
           ],
         }),
@@ -97501,13 +97501,13 @@ const vc = {
     },
     {
       img: "/imgs/socials/telegram.svg",
-      url: "https://t.me/reborn_bnb",
+      url: "https://t.me/bnblife_entry",
       variant: "w-16 h-16",
       title: "Telegram",
     },
     {
       img: "/imgs/socials/twitter.svg",
-      url: "https://x.com/reborn_bnb",
+      url: "https://x.com/bnblife_x",
       variant: "w-16 h-16",
       title: "Twitter",
     },
@@ -97547,11 +97547,11 @@ const vc = {
                 className:
                   "text-white text-center text-7xl text-shadow-lg [text-shadow:_0_8px_0_rgb(0_0_0_/_100%)] [-webkit-text-stroke:_2px_rgba(0,0,0,1)] italic font-bold",
                 children: [
-                  "“Rebirth.” It symbolizes second chances and resilience after setbacks.",
+                  "币安人生",
                   W.jsx("br", {}),
                   W.jsx("span", {
                     className: "text-primary",
-                    children: "希望他能重生",
+                    children: "唉呀呀呀呀，感谢我Jason总，你可太性情太通透了，简直就是币安思维，祝你持有BNB开币安汽车，住币安小区，享币安人生🙏",
                   }),
                 ],
               }),
@@ -97787,13 +97787,13 @@ const vc = {
                   className:
                     "uppercase font-primary md:text-9xl sm:text-6xl text-5xl font-semibold italic",
                   style: { textShadow: "0 4px 16px yellow" },
-                  children: "重生",
+                  children: "币安人生",
                 }),
                 W.jsx("p", {
                   className:
                     "font-primary max-w-[30rem] mt-2 sm:text-lg text-sm mx-auto sm:mx-0",
                   style: { textShadow: "0 2px 8px yellow" },
-                  children: "重生 – A community‑driven meme token celebrating second chances — inspired by a viral X post. Not affiliated with CZ or Binance.",
+                  children: "币安人生 – 唉呀呀呀呀，感谢我Jason总，你可太性情太通透了，简直就是币安思维，祝你持有BNB开币安汽车，住币安小区，享币安人生🙏",
                 }),
                 W.jsx(hi.div, {
                   initial: { opacity: 0, y: 20 },
@@ -98103,7 +98103,7 @@ const b1e = Ns(g1e),
         // W.jsx("h1", {
         //   className:
         //     "font-primary text-primary text-4xl md:text-6xl lg:text-7xl text-center mb-5 italic [-webkit-text-stroke:_2px_rgba(0,0,0,1)] [text-shadow:_0_8px_0_rgb(0_0_0_/_100%)]",
-        //   children: "How to Buy 重生",
+        //   children: "How to Buy 币安人生",
         // }),
         // W.jsx("iframe", {
         //   src: "https://www.youtube.com/embed/z2HVc2sJEVU?si=0UjVqLpdl8r9LMol&autoplay=1&mute=1&loop=1&playlist=z2HVc2sJEVU",
@@ -103672,7 +103672,7 @@ const jpe = () => {
         //       className:
         //         "text-[#c5c5c5] text-xl mt-5 font-primary max-w-3xl mx-auto",
         //       children:
-        //         "Trade 重生 on leading cryptocurrency exchanges with spot and futures trading options.",
+        //         "Trade 币安人生 on leading cryptocurrency exchanges with spot and futures trading options.",
         //     }),
         //   ],
         // }),
@@ -103802,11 +103802,11 @@ function Upe() {
                     lang: "zh",
                     dir: "ltr",
                     children:
-                      "唉呀呀呀呀，感谢我Jason总，你可太性情太通透了，简直就是币安思维，祝你持有BNB开币安汽车，住币安小区，享重生🙏"
+                      "唉呀呀呀呀，感谢我Jason总，你可太性情太通透了，简直就是币安思维，祝你持有BNB开币安汽车，住币安小区，享币安人生🙏"
                   }),
                   " — Yi He ",
                   W.jsx("a", {
-                    href: "https://twitter.com/cz_binance/status/1978178876699206030?ref_src=twsrc%5Etfw",
+                    href: "https://twitter.com/heyibinance/status/1974489756164575458?ref_src=twsrc%5Etfw",
                     children: "October 4, 2025"
                   })
                 ]
